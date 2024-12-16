@@ -1,0 +1,5 @@
+numpy
+loguru == 0.7.3
+pandas
+psycopg2-binary
+notebook
